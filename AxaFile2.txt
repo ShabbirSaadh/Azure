@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hi,this is a AxaFile, is it ok
 some code changes are updated
-cccvvvvvvvvvvfgghghgghghgjklkk
+
+
+
+
+new code changs
+
