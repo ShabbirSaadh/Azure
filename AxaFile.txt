@@ -1,3 +1,4 @@
 Hi,this is a AxaFile, is it ok
-some code changes are updated
+some code changes are updated.
+updating directly on remote repo
 
